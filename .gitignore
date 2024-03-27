@@ -1,0 +1,15 @@
+syntax: regexp
+target/
+work/
+.idea/
+.*\.iml
+*.iml
+LICENSE.txt
+syntax: glob
+src/main/java/com/gemalto/telecom/components/monitoring.zip
+style/checkstyle-cachefile
+.classpath
+.project
+.settings
+.checkstyle
+src/license/THIRD-PARTY.properties
